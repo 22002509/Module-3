@@ -26,6 +26,7 @@ print("Character",y,"in the",x,"is",x.count(f"{y}"),"times")
 
 ### OUTPUT
 
+![image](https://github.com/user-attachments/assets/bddc4406-f89f-46f8-aab3-2e805c175a4a)
 
 
 ### RESULT
