@@ -25,6 +25,8 @@ To create a Python function convert that transforms each uppercase letter to low
 ### PROGRAM
 
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def convert(a):
     new=""
     for i in range(0,len(a)):
