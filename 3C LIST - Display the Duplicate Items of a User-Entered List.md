@@ -21,6 +21,8 @@ To create a Python program that accepts a list from the user and displays all th
 ### PROGRAM
 
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 a=eval(input())
 dup = []
 c = []
