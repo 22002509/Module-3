@@ -22,6 +22,8 @@ To write a Python program to create a tuple containing all multiples of 5 up to 
 ### PROGRAM
 
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def create_multiples_of_5_tuple(N):
     multiples_of_5 = tuple(range(5, N , 5))
     return multiples_of_5
