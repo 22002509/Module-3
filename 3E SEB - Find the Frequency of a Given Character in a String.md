@@ -19,6 +19,8 @@ To create a Python program that finds the frequency of a given character in a st
 ### PROGRAM
 
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 x=input()
 y=input()
 print("Character",y,"in the",x,"is",x.count(f"{y}"),"times")
